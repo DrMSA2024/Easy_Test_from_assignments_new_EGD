@@ -136,7 +136,6 @@ const otherQuestions = [
   "On a railway map, a 240 km route is shown as 200 mm. Find the RF and construct a diagonal scale to read up to 300 km. Mark 218 km.",
   "Draw a diagonal scale of RF = 1/50000 showing kilometers, hectometers, and meters to measure up to 10 km and show 6.75 km.",
   "Construct a diagonal scale of RF = 1/20 to measure up to 5 ft, showing feet, inches, and sub-inches. Mark 3 ft 11.2 inches.",
-  "Draw a diagonal scale of RF = 1/100000 showing nautical miles, cables, and yards. Read up to 6 nautical miles and show 4 nm 3 cables 80 yards.",
   "Draw a diagonal scale of RF = 1/60 to measure up to 7 m showing m, dm, and cm. Show 6.42 m on the scale.",
   "A scale has RF = 1/75 and is to measure up to 10 yards, showing yards, feet, and inches. Show 7 yards 2 feet 6 inches.",
   "Draw a diagonal scale of RF = 1/80 for measuring up to 12 m, showing meters, decimeters, and centimeters. Indicate 9.58 m."
